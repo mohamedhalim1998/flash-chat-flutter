@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739999487657",
+    "firebase_url": "https://flash-chat-e87f4.firebaseio.com",
+    "project_id": "flash-chat-e87f4",
+    "storage_bucket": "flash-chat-e87f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739999487657:android:0cbe9147c83556ef21fbb8",
+        "android_client_info": {
+          "package_name": "com.mohamed.halim.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739999487657-vmer8n33aqgr31fd896mp1nppdkf1s55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQmPRXqA43Um8mLNgvxz829mkDc4vned8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739999487657-vmer8n33aqgr31fd896mp1nppdkf1s55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
